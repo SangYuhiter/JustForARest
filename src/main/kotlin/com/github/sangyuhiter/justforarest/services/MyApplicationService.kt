@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sangyuhiter.justforarest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sangyuhiter.justforarest.MyBundle
 
 class MyApplicationService {
 
